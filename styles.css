@@ -31,3 +31,9 @@ a{
 	border-radius:4px;
 }
 
+.list>p{
+	margin:15px;
+	margin-bottom:0px;
+	margin-top:0px;
+}
+
